@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1221ef3-abe6-44bd-967f-2b23cd18297d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/arr-sprites.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/arr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/hands.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/ic-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/ic-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/ic-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/ic-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/line-04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-05.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-09.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/1-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/arr-sprites.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/arr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/hands.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ic-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ic-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ic-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ic-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/line-04.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/.babelrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/example.config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/gulpfile.babel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/assets/img/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/assets/img/archive/.gitkeep" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/assets/scss/_settings.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/assets/scss/app.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/assets/scss/template/_template.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/helpers/raw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/layouts/default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/layouts/index-layout.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/archive/.gitkeep" afterPath="$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/basic.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/drip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/hero.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/marketing.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/newsletter-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/newsletter.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/order.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/password.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/sidebar-hero.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/sidebar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/pages/welcome.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wrs_email_1/src/partials/.gitkeep" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WRS_TAX_EMAIL_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_settings.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="122" column="20" lean-forward="false" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>580</find>
+      <find>16px</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wrs_email_1/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/app.scss" />
+        <option value="$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_settings.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="foundation_email_letter_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foundation_email_letter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="WRS_TAX_EMAIL_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/dist/assets/WRS_TAX_EMAIL_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/dist/assets/WRS_TAX_EMAIL_1" />
+      <recent name="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1" />
+      <recent name="$PROJECT_DIR$/src/assets/scss/themes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1221ef3-abe6-44bd-967f-2b23cd18297d" name="Default" comment="" />
+      <created>1529500637703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529500637703</updated>
+      <workItem from="1529500639264" duration="338000" />
+      <workItem from="1529501075358" duration="38000" />
+      <workItem from="1529501220672" duration="8446000" />
+    </task>
+    <task id="LOCAL-00001" summary="add files">
+      <created>1529500707356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529500707356</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add files">
+      <created>1529500736540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529500736540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8822000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wrs_email_1/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/wrs_email_1/src/pages/basic.html" />
+    <entry file="file://$PROJECT_DIR$/wrs_email_1/package.json" />
+    <entry file="file://$PROJECT_DIR$/wrs_email_1/package.json" />
+    <entry file="file://$PROJECT_DIR$/wrs_email_1/src/pages/basic.html" />
+    <entry file="file://$PROJECT_DIR$/wrs_email_1/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/hero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-26">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1529500195522" expanded="true" signature="3211:3827" ph="{...}" />
+              <marker date="1529500195522" expanded="true" signature="3222:3522" ph="{&quot;region&quot;: &quot;us-east-1&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="3350:3428" ph="{&quot;Bucket&quot;: &quot;elasticbeanstalk-us-east-1-THIS_IS_JUST_AN_EXAMPLE&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="3536:3825" ph="{&quot;username&quot;: &quot;YOUR_LITMUS@EMAIL.com&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="4287:4902" ph="{...}" />
+              <marker date="1529500195522" expanded="true" signature="4298:4598" ph="{&quot;region&quot;: &quot;us-east-1&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="4426:4504" ph="{&quot;Bucket&quot;: &quot;elasticbeanstalk-us-east-1-THIS_IS_JUST_AN_EXAMPLE&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="4610:4900" ph="{&quot;from&quot;: &quot;Company name &lt;info@company.com&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="4622:4656" ph="[...]" />
+              <marker date="1529500195522" expanded="true" signature="4716:4896" ph="{&quot;host&quot;: &quot;smtp.domain.com&quot;...}" />
+              <marker date="1529500195522" expanded="true" signature="4732:4806" ph="{&quot;user&quot;: &quot;example@domain.com&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/WRS_TAX_EMAIL_1/1-02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/arr.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-06.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-07.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-09.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-05.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-03.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-04.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/WRS_TAX_EMAIL_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1529512461707" expanded="true" signature="1284:2775" ph="..." />
+            <marker date="1529512461707" expanded="true" signature="1284:2780" ph="..." />
+            <marker date="1529512461707" expanded="true" signature="1284:2788" ph="..." />
+            <marker date="1529512461707" expanded="true" signature="1284:2796" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/1-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/arr.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/1-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/1-02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/1-03.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="55" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="122" column="20" lean-forward="false" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

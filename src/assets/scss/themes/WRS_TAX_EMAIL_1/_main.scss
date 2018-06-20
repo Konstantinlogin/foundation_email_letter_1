@@ -1,0 +1,65 @@
+@import 'settings';
+$_RED: #bc141b;
+body,
+html, 
+.body {
+  background: $white!important;
+}
+
+.container.header {
+  background: $white!important;
+}
+table.container {
+  width: 600px!important;
+}
+
+.body-drip {
+  border-top: 8px solid #663399;
+}
+
+// Full Width Headers
+.header {
+  //background: #8a8a8a;
+}
+
+.header .columns {
+  padding-bottom: 0;
+}
+
+.header {
+  //color: #fff;
+}
+
+.header .wrapper-inner {
+  //padding: 20px;
+}
+
+.header .container {
+  background: transparent;
+}
+
+.top-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+.red-block-wrapper {
+  width: 95%!important;
+  .callout-inner {
+    padding: 10px 20px!important;
+  }
+}
+.red-block {
+  border-radius: 3px;
+  border: none!important;
+  background-color: $_RED!important;
+
+  &__title {
+    font-size: 16px;
+    color: $white;
+  }
+  &__text {
+    color: $white;
+    font-size: 15px;
+    line-height: 1.8;
+  }
+}
