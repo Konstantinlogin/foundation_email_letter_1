@@ -116,3 +116,22 @@ table.container {
   width: 62px $i;
   padding: 0$i;
 }
+
+.arrow-icons-block {
+  &__left {
+    width: 88px;
+    background-color: $_RED;
+  }
+  &__right {
+    padding-right: 20px;
+  }
+  &__right, &__pad {
+    background-color: #f4f4f4;
+  }
+  &__arrow-icon {
+    width: 88px$i;
+  }
+  &__pad {
+    width: 20px;
+  }
+}
