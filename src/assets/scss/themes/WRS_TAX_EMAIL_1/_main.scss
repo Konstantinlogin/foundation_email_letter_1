@@ -2,7 +2,11 @@
 $_RED: #bc141b;
 $_BLACK: #585757;
 $i: !important;
+table.body .columns {
+  .arrow-icons-block {
 
+  }
+}
 body,
 html, 
 .body {
@@ -51,6 +55,9 @@ table.container {
   &__paragraph-padding {
     padding: 10px 0$i;
     margin-bottom: 0$i;
+    &--small {
+      font-size: 12px;
+    }
   }
 }
 
@@ -118,12 +125,16 @@ table.container {
 }
 
 .arrow-icons-block {
+  .paragraph-text {
+    line-height: 1.2;
+    margin-top: 4px;
+    margin-right: 12px;
+    margin-bottom: 0;
+    font-size: 15px;
+  }
   &__left {
     width: 88px;
     background-color: $_RED;
-  }
-  &__right {
-    padding-right: 20px;
   }
   &__right, &__pad {
     background-color: #f4f4f4;
@@ -133,5 +144,15 @@ table.container {
   }
   &__pad {
     width: 20px;
+  }
+}
+
+.pre-footer {
+  &__title, &__contact {
+    margin-bottom: 5px;
+  }
+  &__title {
+    color: $_RED;
+    font-weight: bold;
   }
 }

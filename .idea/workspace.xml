@@ -2,58 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1221ef3-abe6-44bd-967f-2b23cd18297d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ic-arrow.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/WRS_TAX_EMAIL_1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/1-10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/arr-sprites.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/arr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/hands.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/ic-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/ic-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/ic-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/ic-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/line-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/basic.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/drip.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/hero.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/marketing.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/newsletter-2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/newsletter.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/order.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/password.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/sidebar-hero.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/sidebar.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/welcome.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/1-10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/arr-sprites.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/arr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/hands.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ic-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ic-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ic-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ic-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/line-04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/ic-1.png" afterPath="$PROJECT_DIR$/src/assets/img/ic-1.png" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/ic-2.png" afterPath="$PROJECT_DIR$/src/assets/img/ic-2.png" />
+      <change beforePath="$PROJECT_DIR$/dist/WRS_TAX_EMAIL_1.html" afterPath="$PROJECT_DIR$/dist/WRS_TAX_EMAIL_1.html" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/ic-3.png" afterPath="$PROJECT_DIR$/dist/assets/img/ic-3.png" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.css" afterPath="$PROJECT_DIR$/dist/css/app.css" />
       <change beforePath="$PROJECT_DIR$/src/assets/img/ic-3.png" afterPath="$PROJECT_DIR$/src/assets/img/ic-3.png" />
       <change beforePath="$PROJECT_DIR$/src/assets/img/ic-4.png" afterPath="$PROJECT_DIR$/src/assets/img/ic-4.png" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss" afterPath="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss" />
@@ -71,46 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WRS_TAX_EMAIL_1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WRS_TAX_EMAIL_1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="88" column="33" lean-forward="false" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+            <state relative-caret-position="1085">
+              <caret line="238" column="52" lean-forward="false" selection-start-line="238" selection-start-column="52" selection-end-line="238" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ic-3.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assets/img/ic-3.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ic-4.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/img/ic-4.png">
+      <file leaf-file-name="1-09.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/img/1-09.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ic-2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/img/ic-2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ic-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/img/ic-1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ic-arrow.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/img/ic-arrow.png">
+        <entry file="file://$PROJECT_DIR$/dist/assets/img/ic-2.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -119,8 +50,8 @@
       <file leaf-file-name="_main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -135,6 +66,8 @@
       <find>!important;</find>
       <find>root</find>
       <find>icc-</find>
+      <find>pad-0</find>
+      <find>__paragraph-padding</find>
     </findStrings>
     <replaceStrings>
       <replace>$i;</replace>
@@ -153,8 +86,8 @@
         <option value="$PROJECT_DIR$/src/assets/scss/app.scss" />
         <option value="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_settings.scss" />
         <option value="$PROJECT_DIR$/dist/WRS_TAX_EMAIL_1.html" />
-        <option value="$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html" />
         <option value="$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss" />
+        <option value="$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html" />
       </list>
     </option>
   </component>
@@ -270,7 +203,9 @@
       <workItem from="1529501220672" duration="8574000" />
       <workItem from="1529677314078" duration="5674000" />
       <workItem from="1529930556362" duration="6475000" />
-      <workItem from="1529944126235" duration="2620000" />
+      <workItem from="1529944126235" duration="2678000" />
+      <workItem from="1530000451696" duration="11000" />
+      <workItem from="1530024610716" duration="2958000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <created>1529500707356</created>
@@ -290,23 +225,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23719000" />
+    <option name="totallyTimeSpent" value="26746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -330,18 +265,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/img/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/arr.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/img/1-01.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -385,7 +308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,19 +353,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_settings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/images/1-01.png" />
     <entry file="file://$PROJECT_DIR$/src/assets/images/ic-1.png" />
     <entry file="file://$PROJECT_DIR$/src/assets/images/ic-4.png" />
     <entry file="file://$PROJECT_DIR$/src/assets/images/ic-3.png" />
     <entry file="file://$PROJECT_DIR$/src/assets/images/ic-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/ic-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/ic-2.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-2.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-3.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-4.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/1-03.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-1.png" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-2.png" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-3.png" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-4.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-2.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-4.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-3.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-1.png" />
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/ic-4.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -459,18 +419,25 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/images/ic-1.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/images/ic-2.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-2.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-3.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-4.png" />
     <entry file="file://$PROJECT_DIR$/dist/assets/img/ic-1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/images/icc-1.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-1.png">
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-arrow.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -480,81 +447,30 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/1-03.png">
+    <entry file="file://$PROJECT_DIR$/src/assets/img/1-10.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-1.png">
+    <entry file="file://$PROJECT_DIR$/src/assets/img/1-09.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/icc-4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/scss/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-2.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-4.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-3.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/img/icc-1.png" />
-    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-arrow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="88" column="33" lean-forward="false" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/themes/WRS_TAX_EMAIL_1/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/img/ic-3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/pages/WRS_TAX_EMAIL_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="238" column="52" lean-forward="false" selection-start-line="238" selection-start-column="52" selection-end-line="238" selection-end-column="52" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
