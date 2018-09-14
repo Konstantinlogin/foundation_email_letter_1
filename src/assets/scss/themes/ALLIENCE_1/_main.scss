@@ -1,0 +1,44 @@
+@import 'settings';
+$_RED: #bc141b;
+$_BLACK: #585757;
+$i: !important;
+table.body .columns {
+  .arrow-icons-block {
+
+  }
+}
+body,
+html, 
+.body {
+  background: $white$i;
+}
+.body {
+  padding-left: 4px$i;
+  padding-right: 4px$i;
+  width: 600px$i;
+}
+.container.header {
+  height: 101px;
+}
+table.container {
+  width: 600px$i;
+}
+.main-title {
+  font-size: 20px;
+}
+.first-section {
+  &__title {
+
+  }
+  &__image {
+    width: 214px$i;
+  }
+  &__red-text {
+    font-size: 16px;
+    color: #e21f26;
+  }
+}
+.paragraph-text {
+  font-size: 14px$i;
+  color: #414141$i;
+}
