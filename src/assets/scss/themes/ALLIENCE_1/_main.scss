@@ -14,6 +14,9 @@ html,
   .layout {
     width: 600px$i;
     min-width: 600px$i;
+    .attention-section, .how-section, .banka-section {
+      width: 600px$i;
+    }
   }
 }
 .body {
@@ -51,6 +54,10 @@ table.container {
   font-size: 14px$i;
   color: #414141$i;
 }
+.paragraph-text-white {
+  font-size: 14px$i;
+  color: white$i;
+}
 .paragraph-text-dark {
   font-size: 14px$i;
   color: #000000$i;
@@ -70,15 +77,6 @@ table.container {
   &__paragraph {
     font-size: 16px$i;
   }
-  &__black-text {
-    font-size: 30px$i;
-    margin-bottom: 0$i;
-  }
-  &__red-text {
-    font-size: 34px$i;
-    font-weight: bold;
-    color: #e21f26$i;
-  }
 }
 .why-section {
   &__text {
@@ -90,6 +88,28 @@ table.container {
 
   }
 }
+.banka-bg {
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 479px;
+  &__red-block {
+    background-color: #e21f26;
+  }
+  &__paragraph {
+    font-size: 12px$i;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  &__black-text {
+    font-size: 30px$i;
+    margin-bottom: 0$i;
+  }
+  &__red-text {
+    font-size: 34px$i;
+    font-weight: bold;
+    color: #e21f26$i;
+  }
+}
 .attention-section {
   &__title {
     font-weight: bold$i;
@@ -99,6 +119,20 @@ table.container {
   &__coltext {
     padding-right: 30px;
     padding-left: 18px$i;
+    font-size: 12px$i;
+  }
+}
+.how-to-bg {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 549px;
+  width: 568px;
+  height: 382px;
+  &__text-wrapper {
+    background-color: #e21f26;
+    padding: 8px;
+  }
+  &__text {
     font-size: 12px$i;
   }
 }
