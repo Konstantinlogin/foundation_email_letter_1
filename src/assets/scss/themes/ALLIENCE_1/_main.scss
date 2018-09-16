@@ -144,3 +144,10 @@ table.container {
     font-size: 12px$i;
   }
 }
+.ps-section {
+  &__text {
+    &--center {
+      text-align: center;
+    }
+  }
+}
