@@ -11,11 +11,15 @@ body,
 html, 
 .body {
   background: $white$i;
+  .layout {
+    width: 600px$i;
+    min-width: 600px$i;
+  }
 }
 .body {
   padding-left: 4px$i;
   padding-right: 4px$i;
-  width: 600px$i;
+  // width: 600px$i;
 }
 .container.header {
   height: 101px;
@@ -37,8 +41,64 @@ table.container {
     font-size: 16px;
     color: #e21f26;
   }
+  &__left {
+  }
+  &__right {
+    padding-left: 8px;
+  }
 }
 .paragraph-text {
   font-size: 14px$i;
   color: #414141$i;
+}
+.paragraph-text-dark {
+  font-size: 14px$i;
+  color: #000000$i;
+}
+.paragraph-text-dark-bold {
+  font-size: 14px$i;
+  color: #000000$i;
+  font-weight: bold;
+}
+.paragraph-text-dark-bold-decorated {
+  font-size: 14px$i;
+  color: #000000$i;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.banka-section {
+  &__paragraph {
+    font-size: 16px$i;
+  }
+  &__black-text {
+    font-size: 30px$i;
+    margin-bottom: 0$i;
+  }
+  &__red-text {
+    font-size: 34px$i;
+    font-weight: bold;
+    color: #e21f26$i;
+  }
+}
+.why-section {
+  &__text {
+    font-size: 12px$i;
+    padding-right: 20px$i;
+    line-height: 1.8$i;
+  }
+  &__logo {
+
+  }
+}
+.attention-section {
+  &__title {
+    font-weight: bold$i;
+    font-size: 26px$i;
+    color: #e21f26$i;
+  }
+  &__coltext {
+    padding-right: 30px;
+    padding-left: 18px$i;
+    font-size: 12px$i;
+  }
 }
