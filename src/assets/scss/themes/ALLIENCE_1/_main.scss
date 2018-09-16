@@ -53,18 +53,26 @@ table.container {
 .paragraph-text {
   font-size: 14px$i;
   color: #414141$i;
+  text-decoration: none;
 }
 .paragraph-text-white {
   font-size: 14px$i;
   color: white$i;
+  text-decoration: none;
 }
 .paragraph-text-dark {
   font-size: 14px$i;
   color: #000000$i;
+  text-decoration: none;
 }
 .paragraph-text-dark-bold {
   font-size: 14px$i;
   color: #000000$i;
+  font-weight: bold;
+}
+.paragraph-text-red-bold {
+  font-size: 14px$i;
+  color: #e21f26$i;
   font-weight: bold;
 }
 .paragraph-text-dark-bold-decorated {
